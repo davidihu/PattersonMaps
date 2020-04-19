@@ -1,3 +1,5 @@
+- This project is licensed under the terms of Creative Commons Attribution-Noncommercial-ShareAlike license (CC BY-NC-SA 4.0).
+
 - This repository has all the code I used to train and test a deep-learning neural network.
 - The goal of this work is to apply deep-learning to the x-ray crystallography phase problem.
 
